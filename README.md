@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/669907c9ff02ffb6691c5f5b?variant=dark&roadmaps=ai-data-scientist" alt="roadmap.sh"/></a>
 
 <!--
 **SamKantarevic/SamKantarevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
